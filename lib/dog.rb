@@ -10,4 +10,8 @@ class Dog
   def get_name
     @dogs_name
   end
+  
+  def bark
+    
+  end 
 end
